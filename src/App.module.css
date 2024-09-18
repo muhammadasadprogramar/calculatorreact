@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+}
+
+.container {
+  max-width: 350px;
+  border: 1px solid #57575774;;
+  border-radius: 20px;
+  margin: 30px;
+  padding: 15px;
+  padding-bottom: 20px;
+  box-shadow: 20px -20px 50px #11111113;
+}
